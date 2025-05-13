@@ -66,3 +66,11 @@ Esto es un texto que tiene una cita debajo:
 
 Esto es otro ejemplo.
 > Hola mi nombre es Pepe.
+
+# Lineas Horizontales
+Esto es un texto dividido por guiones.
+---
+Esto es un texto dividido por asteriscos
+***
+Esto es un texto dividido por guiones bajos.
+___
