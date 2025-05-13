@@ -35,3 +35,20 @@ Underline 2
 
 # Imagenes
 ![Logo empresa](https://cdn-icons-png.flaticon.com/512/733/733609.png)
+
+# Code Snippets
+Codigo JSON
+```JSON
+{
+    "arrayColores":[{
+            "rojo":"#f00",
+            "verde":"#0f0",
+            "azul":"#00f",
+            "cyan":"#0ff",
+            "magenta":"#f0f",
+            "amarillo":"#ff0",
+            "negro":"#000"
+        }
+    ]
+}
+```
