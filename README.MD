@@ -52,3 +52,10 @@ Codigo JSON
     ]
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Adrian | Fernandez| 11111111  |
+| Pepe   | Garcia   | 123456    |
+| Tom    |      Tom |  62622146 |
