@@ -59,3 +59,10 @@ Codigo JSON
 | Adrian | Fernandez| 11111111  |
 | Pepe   | Garcia   | 123456    |
 | Tom    |      Tom |  62622146 |
+
+# Citas
+Esto es un texto que tiene una cita debajo:
+> Hola mi nombre es Adrian.
+
+Esto es otro ejemplo.
+> Hola mi nombre es Pepe.
